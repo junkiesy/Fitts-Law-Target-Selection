@@ -63,7 +63,8 @@ public class FittsLaw : MonoBehaviour
         float movementTime = endTime - startTime;
 
         var condition = conditions[currentConditionIndex];
-        string logEntry = $"Mouse, {condition.y * 2}, {condition.x * 2}, {movementTime}, {(isCorrect ? 1 : 0)}";
+        string targetName = $"target{(selectionsCount % 9) + 1}";
+        string logEntry = $"{targetName}, Mouse, {condition.y * 2}, {condition.x * 2}, {movementTime}, {(isCorrect ? 1 : 0)}";
         logData.Add(logEntry);
         Debug.Log(logEntry);
 
@@ -72,6 +73,13 @@ public class FittsLaw : MonoBehaviour
         {
             selectionsCount = 0;
             currentConditionIndex = (currentConditionIndex + 1) % conditions.Count;
+
+            if (currentConditionIndex < conditions.Count)
+            {
+                string combinationLog = $"Combination {currentConditionIndex + 1}: Distance = {conditions[currentConditionIndex].x * 2}m, Width = {conditions[currentConditionIndex].y * 2}m";
+                logData.Add(combinationLog);
+                Debug.Log(combinationLog);
+            }
         }
 
         ActivateNextTarget();
