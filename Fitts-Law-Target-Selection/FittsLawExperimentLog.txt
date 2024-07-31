@@ -1,56 +1,557 @@
-Mouse, 0.01, 0.1, 0.8365927, 1
-Mouse, 0.01, 0.1, 0.8664514, 1
-Mouse, 0.01, 0.1, 0.6331835, 1
-Mouse, 0.01, 0.1, 0.6831651, 0
-Mouse, 0.01, 0.1, 0.6997571, 1
-Mouse, 0.01, 0.1, 0.6165044, 1
-Mouse, 0.01, 0.1, 0.7664304, 1
-Mouse, 0.01, 0.1, 0.6165237, 0
-Mouse, 0.01, 0.1, 0.5498724, 0
-Mouse, 0.02, 0.1, 0.1999335, 0
-Mouse, 0.02, 0.1, 0.3999047, 0
-Mouse, 0.02, 0.1, 0.2499385, 0
-Mouse, 0.02, 0.1, 0.1833315, 0
-Experiment run at 2024-07-30 12:14:09
-Mouse, 0.01, 0.1, 1.229098, 1
-Mouse, 0.01, 0.1, 1.152528, 1
-Mouse, 0.01, 0.1, 0.6503141, 0
-Mouse, 0.01, 0.1, 1.239856, 1
-Mouse, 0.01, 0.1, 0.8985639, 1
-Mouse, 0.01, 0.1, 0.6503, 1
-Mouse, 0.01, 0.1, 0.633904, 1
-Mouse, 0.01, 0.1, 0.7170095, 1
-Mouse, 0.01, 0.1, 0.6055374, 0
-Mouse, 0.02, 0.1, 0.8231149, 1
-Mouse, 0.02, 0.1, 0.6673422, 1
-Mouse, 0.02, 0.1, 0.5658455, 0
-Mouse, 0.02, 0.1, 0.885705, 1
-Mouse, 0.02, 0.1, 0.5801506, 0
-Mouse, 0.02, 0.1, 0.6979856, 1
-Mouse, 0.02, 0.1, 0.7046213, 0
-Experiment run at 2024-07-30 12:14:32
-Mouse, 0.01, 0.1, 0.9468177, 1
-Mouse, 0.01, 0.1, 0.9711139, 1
-Mouse, 0.01, 0.1, 0.821661, 1
-Mouse, 0.01, 0.1, 0.840668, 1
-Mouse, 0.01, 0.1, 0.7243364, 1
-Mouse, 0.01, 0.1, 0.8001366, 0
-Mouse, 0.01, 0.1, 0.9331465, 1
-Mouse, 0.01, 0.1, 0.9284, 1
-Mouse, 0.01, 0.1, 1.052403, 1
-Mouse, 0.02, 0.1, 0.6022854, 0
-Experiment run at 2024-07-30 12:15:25
-Mouse, 0.01, 0.1, 0.7158058, 1
-Mouse, 0.01, 0.1, 0.6671489, 0
-Mouse, 0.01, 0.1, 0.7461694, 1
-Mouse, 0.01, 0.1, 0.7018857, 1
-Mouse, 0.01, 0.1, 0.7077708, 1
-Mouse, 0.01, 0.1, 0.7868056, 0
-Mouse, 0.01, 0.1, 0.8963614, 0
-Experiment run at 2024-07-30 12:15:54
-Mouse, 0.01, 0.1, 1.402996, 1
-Mouse, 0.01, 0.1, 0.9330821, 1
-Mouse, 0.01, 0.1, 0.7831609, 1
-Mouse, 0.01, 0.1, 0.916434, 1
-Mouse, 0.01, 0.1, 0.8664622, 1
-Mouse, 0.01, 0.1, 0.6165366, 1
+Combination 1: Distance = 0.1m, Width = 0.01m
+Experiment run at 2024-07-31 02:00:18
+target1, MousePad, 0.01, 0.1, 1.327246, 1
+target2, MousePad, 0.01, 0.1, 1.106543, 1
+target3, MousePad, 0.01, 0.1, 1.045347, 1
+target4, MousePad, 0.01, 0.1, 0.9695177, 1
+target5, MousePad, 0.01, 0.1, 1.156451, 1
+target6, MousePad, 0.01, 0.1, 1.223567, 1
+target7, MousePad, 0.01, 0.1, 0.8210168, 1
+target8, MousePad, 0.01, 0.1, 0.7968941, 1
+target9, MousePad, 0.01, 0.1, 0.8300266, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, MousePad, 0.02, 0.1, 1.117804, 1
+target2, MousePad, 0.02, 0.1, 0.980691, 1
+target3, MousePad, 0.02, 0.1, 1.074847, 1
+target4, MousePad, 0.02, 0.1, 0.9608917, 1
+target5, MousePad, 0.02, 0.1, 1.046009, 1
+target6, MousePad, 0.02, 0.1, 1.037021, 1
+target7, MousePad, 0.02, 0.1, 1.185201, 1
+target8, MousePad, 0.02, 0.1, 1.161995, 1
+target9, MousePad, 0.02, 0.1, 1.35849, 1
+Combination 3: Distance = 0.1m, Width = 0.03m
+target1, MousePad, 0.03, 0.1, 1.64484, 1
+target2, MousePad, 0.03, 0.1, 0.7888947, 1
+target3, MousePad, 0.03, 0.1, 0.9124546, 1
+target4, MousePad, 0.03, 0.1, 0.8801575, 1
+target5, MousePad, 0.03, 0.1, 1.211285, 1
+target6, MousePad, 0.03, 0.1, 1.235914, 1
+target7, MousePad, 0.03, 0.1, 0.8098431, 1
+target8, MousePad, 0.03, 0.1, 0.9404068, 1
+target9, MousePad, 0.03, 0.1, 0.9056358, 1
+Combination 4: Distance = 0.2m, Width = 0.01m
+target1, MousePad, 0.01, 0.2, 1.016373, 1
+target2, MousePad, 0.01, 0.2, 1.117676, 1
+target3, MousePad, 0.01, 0.2, 1.264679, 1
+target4, MousePad, 0.01, 0.2, 1.010534, 1
+target5, MousePad, 0.01, 0.2, 0.9178734, 1
+target6, MousePad, 0.01, 0.2, 0.9306641, 1
+target7, MousePad, 0.01, 0.2, 0.8894386, 1
+target8, MousePad, 0.01, 0.2, 0.9686813, 1
+target9, MousePad, 0.01, 0.2, 1.031631, 1
+Combination 5: Distance = 0.2m, Width = 0.02m
+target1, MousePad, 0.02, 0.2, 1.74094, 1
+target2, MousePad, 0.02, 0.2, 0.8965836, 1
+target3, MousePad, 0.02, 0.2, 0.9996567, 1
+target4, MousePad, 0.02, 0.2, 0.8142395, 1
+target5, MousePad, 0.02, 0.2, 0.8965607, 1
+target6, MousePad, 0.02, 0.2, 0.8540955, 1
+target7, MousePad, 0.02, 0.2, 1.183338, 1
+target8, MousePad, 0.02, 0.2, 0.9649239, 1
+target9, MousePad, 0.02, 0.2, 1.400623, 1
+Combination 6: Distance = 0.2m, Width = 0.03m
+target1, MousePad, 0.03, 0.2, 1.595406, 1
+target2, MousePad, 0.03, 0.2, 1.258049, 1
+target3, MousePad, 0.03, 0.2, 1.159859, 1
+target4, MousePad, 0.03, 0.2, 0.9451981, 1
+target5, MousePad, 0.03, 0.2, 1.11694, 1
+target6, MousePad, 0.03, 0.2, 1.089054, 1
+target7, MousePad, 0.03, 0.2, 0.9542084, 1
+target8, MousePad, 0.03, 0.2, 0.8450508, 1
+target9, MousePad, 0.03, 0.2, 1.060692, 1
+Combination 7: Distance = 0.3m, Width = 0.01m
+target1, MousePad, 0.01, 0.3, 1.288059, 1
+target2, MousePad, 0.01, 0.3, 0.837574, 1
+target3, MousePad, 0.01, 0.3, 0.8894119, 1
+target4, MousePad, 0.01, 0.3, 0.8348999, 1
+target5, MousePad, 0.01, 0.3, 1.028999, 1
+target6, MousePad, 0.01, 0.3, 1.018719, 1
+target7, MousePad, 0.01, 0.3, 0.855648, 1
+target8, MousePad, 0.01, 0.3, 1.12162, 1
+target9, MousePad, 0.01, 0.3, 1.031067, 1
+Combination 8: Distance = 0.3m, Width = 0.02m
+target1, MousePad, 0.02, 0.3, 1.301483, 1
+target2, MousePad, 0.02, 0.3, 0.9912643, 1
+target3, MousePad, 0.02, 0.3, 1.193779, 1
+target4, MousePad, 0.02, 0.3, 1.158798, 1
+target5, MousePad, 0.02, 0.3, 1.021294, 1
+target6, MousePad, 0.02, 0.3, 1.064796, 1
+target7, MousePad, 0.02, 0.3, 1.187813, 1
+target8, MousePad, 0.02, 0.3, 1.123383, 1
+target9, MousePad, 0.02, 0.3, 1.017433, 1
+Combination 9: Distance = 0.3m, Width = 0.03m
+target1, MousePad, 0.03, 0.3, 1.956169, 1
+target2, MousePad, 0.03, 0.3, 1.316315, 1
+target3, MousePad, 0.03, 0.3, 0.9124756, 1
+target4, MousePad, 0.03, 0.3, 0.9862137, 1
+target5, MousePad, 0.03, 0.3, 1.123581, 1
+target6, MousePad, 0.03, 0.3, 1.076797, 1
+target7, MousePad, 0.03, 0.3, 1.059204, 1
+target8, MousePad, 0.03, 0.3, 1.07518, 1
+target9, MousePad, 0.03, 0.3, 1.202385, 1
+
+Person 1 (Mouse)
+
+Combination 1: Distance = 0.1m, Width = 0.01m
+target1, Mouse, 0.01, 0.1, 2.436607, 1
+target2, Mouse, 0.01, 0.1, 0.9892731, 1
+target3, Mouse, 0.01, 0.1, 0.9617691, 1
+target4, Mouse, 0.01, 0.1, 0.8718338, 1
+target5, Mouse, 0.01, 0.1, 0.9118729, 1
+target6, Mouse, 0.01, 0.1, 0.8383331, 1
+target7, Mouse, 0.01, 0.1, 0.9369583, 1
+target8, Mouse, 0.01, 0.1, 0.8722382, 1
+target9, Mouse, 0.01, 0.1, 1.023407, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, Mouse, 0.02, 0.1, 1.033524, 1
+target2, Mouse, 0.02, 0.1, 0.9749146, 1
+target3, Mouse, 0.02, 0.1, 1.113152, 1
+target4, Mouse, 0.02, 0.1, 0.9106293, 1
+target5, Mouse, 0.02, 0.1, 0.9275589, 1
+target6, Mouse, 0.02, 0.1, 0.991806, 1
+target7, Mouse, 0.02, 0.1, 0.9825363, 1
+target8, Mouse, 0.02, 0.1, 1.36937, 1
+target9, Mouse, 0.02, 0.1, 0.8807907, 1
+Combination 3: Distance = 0.1m, Width = 0.03m
+target1, Mouse, 0.03, 0.1, 1.295639, 1
+target2, Mouse, 0.03, 0.1, 0.8809052, 1
+target3, Mouse, 0.03, 0.1, 0.9589386, 1
+target4, Mouse, 0.03, 0.1, 0.8270721, 1
+target5, Mouse, 0.03, 0.1, 0.9110336, 1
+target6, Mouse, 0.03, 0.1, 0.8877106, 1
+target7, Mouse, 0.03, 0.1, 0.7759399, 1
+target8, Mouse, 0.03, 0.1, 1.062561, 1
+target9, Mouse, 0.03, 0.1, 1.087387, 1
+Combination 4: Distance = 0.2m, Width = 0.01m
+target1, Mouse, 0.01, 0.2, 0.7763367, 1
+target2, Mouse, 0.01, 0.2, 0.6873474, 1
+target3, Mouse, 0.01, 0.2, 0.8738251, 1
+target4, Mouse, 0.01, 0.2, 0.984314, 1
+target5, Mouse, 0.01, 0.2, 0.9356232, 1
+target6, Mouse, 0.01, 0.2, 0.9748917, 1
+target7, Mouse, 0.01, 0.2, 0.9687271, 1
+target8, Mouse, 0.01, 0.2, 0.8707275, 1
+target9, Mouse, 0.01, 0.2, 0.9361496, 0
+Combination 5: Distance = 0.2m, Width = 0.02m
+target1, Mouse, 0.02, 0.2, 1.008965, 0
+target2, Mouse, 0.02, 0.2, 0.7449646, 1
+target3, Mouse, 0.02, 0.2, 1.11113, 1
+target4, Mouse, 0.02, 0.2, 0.9671478, 1
+target5, Mouse, 0.02, 0.2, 0.7034225, 1
+target6, Mouse, 0.02, 0.2, 0.944397, 1
+target7, Mouse, 0.02, 0.2, 0.7949371, 1
+target8, Mouse, 0.02, 0.2, 1.062546, 1
+target9, Mouse, 0.02, 0.2, 0.8304291, 1
+Combination 6: Distance = 0.2m, Width = 0.03m
+target1, Mouse, 0.03, 0.2, 1.079849, 1
+target2, Mouse, 0.03, 0.2, 1.03418, 1
+target3, Mouse, 0.03, 0.2, 1.182831, 1
+target4, Mouse, 0.03, 0.2, 1.095993, 1
+target5, Mouse, 0.03, 0.2, 1.008575, 1
+target6, Mouse, 0.03, 0.2, 1.094574, 1
+target7, Mouse, 0.03, 0.2, 0.9687958, 1
+target8, Mouse, 0.03, 0.2, 0.8961639, 1
+target9, Mouse, 0.03, 0.2, 0.7863922, 1
+Combination 7: Distance = 0.3m, Width = 0.01m
+target1, Mouse, 0.01, 0.3, 0.8763885, 1
+target2, Mouse, 0.01, 0.3, 1.049637, 1
+target3, Mouse, 0.01, 0.3, 0.888916, 1
+target4, Mouse, 0.01, 0.3, 0.8878326, 1
+target5, Mouse, 0.01, 0.3, 0.8144531, 1
+target6, Mouse, 0.01, 0.3, 0.9224854, 0
+target7, Mouse, 0.01, 0.3, 0.9025574, 1
+target8, Mouse, 0.01, 0.3, 0.914856, 1
+target9, Mouse, 0.01, 0.3, 0.7956085, 1
+Combination 8: Distance = 0.3m, Width = 0.02m
+target1, Mouse, 0.02, 0.3, 0.9046478, 1
+target2, Mouse, 0.02, 0.3, 1.208191, 1
+target3, Mouse, 0.02, 0.3, 0.735733, 0
+target4, Mouse, 0.02, 0.3, 1.256836, 1
+target5, Mouse, 0.02, 0.3, 1.064392, 1
+target6, Mouse, 0.02, 0.3, 1.278961, 1
+target7, Mouse, 0.02, 0.3, 1.168137, 1
+target8, Mouse, 0.02, 0.3, 0.8313446, 1
+target9, Mouse, 0.02, 0.3, 0.9142456, 1
+Combination 9: Distance = 0.3m, Width = 0.03m
+target1, Mouse, 0.03, 0.3, 2.321243, 1
+target2, Mouse, 0.03, 0.3, 0.9677582, 1
+target3, Mouse, 0.03, 0.3, 1.052826, 1
+target4, Mouse, 0.03, 0.3, 0.8601227, 1
+target5, Mouse, 0.03, 0.3, 0.8614349, 1
+target6, Mouse, 0.03, 0.3, 0.9343262, 1
+target7, Mouse, 0.03, 0.3, 0.8483276, 1
+target8, Mouse, 0.03, 0.3, 1.058563, 1
+target9, Mouse, 0.03, 0.3, 0.8219757, 1
+
+Person 2 (MousePad)
+
+Combination 1: Distance = 0.1m, Width = 0.01m
+target1, MousePad, 0.01, 0.1, 0.9694977, 1
+target2, MousePad, 0.01, 0.1, 3.330307, 1
+target3, MousePad, 0.01, 0.1, 1.104309, 1
+target4, MousePad, 0.01, 0.1, 1.796295, 1
+target5, MousePad, 0.01, 0.1, 1.005341, 1
+target6, MousePad, 0.01, 0.1, 0.9829254, 1
+target7, MousePad, 0.01, 0.1, 1.357254, 1
+target8, MousePad, 0.01, 0.1, 1.178345, 1
+target9, MousePad, 0.01, 0.1, 1.201477, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, MousePad, 0.02, 0.1, 1.720795, 1
+target2, MousePad, 0.02, 0.1, 0.904953, 1
+target3, MousePad, 0.02, 0.1, 1.063873, 1
+target4, MousePad, 0.02, 0.1, 1.181, 1
+target5, MousePad, 0.02, 0.1, 1.056427, 1
+target6, MousePad, 0.02, 0.1, 0.9542694, 1
+target7, MousePad, 0.02, 0.1, 0.9776917, 1
+target8, MousePad, 0.02, 0.1, 0.9963379, 0
+target9, MousePad, 0.02, 0.1, 0.9474182, 1
+Combination 3: Distance = 0.1m, Width = 0.03m
+target1, MousePad, 0.03, 0.1, 1.110886, 1
+target2, MousePad, 0.03, 0.1, 0.957016, 0
+target3, MousePad, 0.03, 0.1, 1.210236, 1
+target4, MousePad, 0.03, 0.1, 0.9897461, 1
+target5, MousePad, 0.03, 0.1, 1.382721, 1
+target6, MousePad, 0.03, 0.1, 1.30632, 1
+target7, MousePad, 0.03, 0.1, 1.376617, 1
+target8, MousePad, 0.03, 0.1, 1.115738, 1
+target9, MousePad, 0.03, 0.1, 1.033493, 1
+Combination 4: Distance = 0.2m, Width = 0.01m
+target1, MousePad, 0.01, 0.2, 1.223495, 1
+target2, MousePad, 0.01, 0.2, 1.293472, 1
+target3, MousePad, 0.01, 0.2, 0.9470062, 1
+target4, MousePad, 0.01, 0.2, 1.280075, 1
+target5, MousePad, 0.01, 0.2, 1.081207, 1
+target6, MousePad, 0.01, 0.2, 1.215347, 1
+target7, MousePad, 0.01, 0.2, 1.206406, 1
+target8, MousePad, 0.01, 0.2, 0.925766, 1
+target9, MousePad, 0.01, 0.2, 1.101593, 1
+Combination 5: Distance = 0.2m, Width = 0.02m
+target1, MousePad, 0.02, 0.2, 1.073624, 1
+target2, MousePad, 0.02, 0.2, 1.089737, 1
+target3, MousePad, 0.02, 0.2, 1.087082, 1
+target4, MousePad, 0.02, 0.2, 1.016403, 1
+target5, MousePad, 0.02, 0.2, 1.127106, 1
+target6, MousePad, 0.02, 0.2, 1.101227, 1
+target7, MousePad, 0.02, 0.2, 1.358383, 1
+target8, MousePad, 0.02, 0.2, 1.133347, 1
+target9, MousePad, 0.02, 0.2, 1.051193, 1
+Combination 6: Distance = 0.2m, Width = 0.03m
+target1, MousePad, 0.03, 0.2, 0.9821472, 1
+target2, MousePad, 0.03, 0.2, 1.146881, 1
+target3, MousePad, 0.03, 0.2, 1.159622, 1
+target4, MousePad, 0.03, 0.2, 1.363831, 1
+target5, MousePad, 0.03, 0.2, 1.574142, 1
+target6, MousePad, 0.03, 0.2, 0.9879913, 1
+target7, MousePad, 0.03, 0.2, 0.976944, 1
+target8, MousePad, 0.03, 0.2, 1.065048, 1
+target9, MousePad, 0.03, 0.2, 1.332001, 1
+Combination 7: Distance = 0.3m, Width = 0.01m
+target1, MousePad, 0.01, 0.3, 1.01001, 1
+target2, MousePad, 0.01, 0.3, 1.245544, 1
+target3, MousePad, 0.01, 0.3, 1.083313, 1
+target4, MousePad, 0.01, 0.3, 1.056519, 1
+target5, MousePad, 0.01, 0.3, 0.9771118, 1
+target6, MousePad, 0.01, 0.3, 1.179413, 1
+target7, MousePad, 0.01, 0.3, 1.102798, 1
+target8, MousePad, 0.01, 0.3, 2.013474, 1
+target9, MousePad, 0.01, 0.3, 1.304443, 1
+Combination 8: Distance = 0.3m, Width = 0.02m
+target1, MousePad, 0.02, 0.3, 1.328995, 1
+target2, MousePad, 0.02, 0.3, 0.9488831, 1
+target3, MousePad, 0.02, 0.3, 0.9442902, 1
+target4, MousePad, 0.02, 0.3, 1.008911, 1
+target5, MousePad, 0.02, 0.3, 0.9204102, 1
+target6, MousePad, 0.02, 0.3, 0.8435669, 1
+target7, MousePad, 0.02, 0.3, 0.8832703, 1
+target8, MousePad, 0.02, 0.3, 1.146957, 1
+target9, MousePad, 0.02, 0.3, 1.059433, 1
+Combination 9: Distance = 0.3m, Width = 0.03m
+target1, MousePad, 0.03, 0.3, 1.111465, 1
+target2, MousePad, 0.03, 0.3, 0.9177704, 1
+target3, MousePad, 0.03, 0.3, 1.057663, 1
+target4, MousePad, 0.03, 0.3, 0.9195862, 1
+target5, MousePad, 0.03, 0.3, 0.9155426, 1
+target6, MousePad, 0.03, 0.3, 0.8578491, 1
+target7, MousePad, 0.03, 0.3, 0.9504089, 1
+target8, MousePad, 0.03, 0.3, 1.05365, 1
+target9, MousePad, 0.03, 0.3, 0.9304199, 1
+
+Person 2 (Mouse)
+
+Combination 1: Distance = 0.1m, Width = 0.01m
+target1, Mouse, 0.01, 0.1, 2.973236, 1
+target2, Mouse, 0.01, 0.1, 1.151123, 1
+target3, Mouse, 0.01, 0.1, 1.040405, 1
+target4, Mouse, 0.01, 0.1, 0.7934265, 1
+target5, Mouse, 0.01, 0.1, 0.7840271, 1
+target6, Mouse, 0.01, 0.1, 1.295135, 1
+target7, Mouse, 0.01, 0.1, 0.8876343, 1
+target8, Mouse, 0.01, 0.1, 0.8539429, 1
+target9, Mouse, 0.01, 0.1, 0.8981628, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, Mouse, 0.02, 0.1, 0.8067932, 1
+target2, Mouse, 0.02, 0.1, 0.6479492, 1
+target3, Mouse, 0.02, 0.1, 0.9677734, 1
+target4, Mouse, 0.02, 0.1, 0.9918518, 1
+target5, Mouse, 0.02, 0.1, 0.970459, 1
+target6, Mouse, 0.02, 0.1, 1.047882, 1
+target7, Mouse, 0.02, 0.1, 0.8736267, 1
+target8, Mouse, 0.02, 0.1, 1.021362, 1
+target9, Mouse, 0.02, 0.1, 0.7904358, 1
+Combination 3: Distance = 0.1m, Width = 0.03m
+target1, Mouse, 0.03, 0.1, 1.106201, 1
+target2, Mouse, 0.03, 0.1, 0.791626, 1
+target3, Mouse, 0.03, 0.1, 1.27182, 1
+target4, Mouse, 0.03, 0.1, 1.154022, 1
+target5, Mouse, 0.03, 0.1, 0.8966675, 1
+target6, Mouse, 0.03, 0.1, 0.9732361, 1
+target7, Mouse, 0.03, 0.1, 0.8573608, 1
+target8, Mouse, 0.03, 0.1, 1.095947, 1
+target9, Mouse, 0.03, 0.1, 1.191193, 1
+Combination 4: Distance = 0.2m, Width = 0.01m
+target1, Mouse, 0.01, 0.2, 1.445435, 1
+target2, Mouse, 0.01, 0.2, 0.9971619, 1
+target3, Mouse, 0.01, 0.2, 0.9093323, 1
+target4, Mouse, 0.01, 0.2, 0.9744873, 1
+target5, Mouse, 0.01, 0.2, 0.8981934, 1
+target6, Mouse, 0.01, 0.2, 0.9108276, 1
+target7, Mouse, 0.01, 0.2, 1.000061, 1
+target8, Mouse, 0.01, 0.2, 0.8943481, 1
+target9, Mouse, 0.01, 0.2, 0.9208069, 1
+Combination 5: Distance = 0.2m, Width = 0.02m
+target1, Mouse, 0.02, 0.2, 1.000977, 1
+target2, Mouse, 0.02, 0.2, 1.137085, 1
+target3, Mouse, 0.02, 0.2, 0.9996643, 1
+target4, Mouse, 0.02, 0.2, 1.021515, 1
+target5, Mouse, 0.02, 0.2, 1.456055, 1
+target6, Mouse, 0.02, 0.2, 1.121704, 1
+target7, Mouse, 0.02, 0.2, 1.025299, 1
+target8, Mouse, 0.02, 0.2, 1.375732, 1
+target9, Mouse, 0.02, 0.2, 0.9490967, 1
+Combination 6: Distance = 0.2m, Width = 0.03m
+target1, Mouse, 0.03, 0.2, 1.22702, 1
+target2, Mouse, 0.03, 0.2, 0.9342346, 1
+target3, Mouse, 0.03, 0.2, 0.770752, 1
+target4, Mouse, 0.03, 0.2, 1.125397, 1
+target5, Mouse, 0.03, 0.2, 0.9524841, 1
+target6, Mouse, 0.03, 0.2, 1.110474, 1
+target7, Mouse, 0.03, 0.2, 1.083618, 1
+target8, Mouse, 0.03, 0.2, 1.046265, 1
+target9, Mouse, 0.03, 0.2, 0.7673035, 1
+Combination 7: Distance = 0.3m, Width = 0.01m
+target1, Mouse, 0.01, 0.3, 0.8724976, 1
+target2, Mouse, 0.01, 0.3, 1.001465, 1
+target3, Mouse, 0.01, 0.3, 0.919281, 1
+target4, Mouse, 0.01, 0.3, 1.077972, 1
+target5, Mouse, 0.01, 0.3, 0.8395691, 1
+target6, Mouse, 0.01, 0.3, 1.090485, 1
+target7, Mouse, 0.01, 0.3, 0.9490356, 1
+target8, Mouse, 0.01, 0.3, 0.9569092, 1
+target9, Mouse, 0.01, 0.3, 0.9032288, 1
+Combination 8: Distance = 0.3m, Width = 0.02m
+target1, Mouse, 0.02, 0.3, 1.119293, 1
+target2, Mouse, 0.02, 0.3, 0.9521179, 1
+target3, Mouse, 0.02, 0.3, 0.9584351, 1
+target4, Mouse, 0.02, 0.3, 1.073181, 1
+target5, Mouse, 0.02, 0.3, 1.021515, 1
+target6, Mouse, 0.02, 0.3, 0.8569031, 1
+target7, Mouse, 0.02, 0.3, 0.8808289, 1
+target8, Mouse, 0.02, 0.3, 0.8800354, 1
+target9, Mouse, 0.02, 0.3, 0.7592773, 1
+Combination 9: Distance = 0.3m, Width = 0.03m
+target1, Mouse, 0.03, 0.3, 1.166809, 1
+target2, Mouse, 0.03, 0.3, 0.9368286, 1
+target3, Mouse, 0.03, 0.3, 1.000946, 1
+target4, Mouse, 0.03, 0.3, 0.9667358, 1
+target5, Mouse, 0.03, 0.3, 0.8494263, 1
+target6, Mouse, 0.03, 0.3, 0.8902283, 1
+target7, Mouse, 0.03, 0.3, 1.021759, 1
+target8, Mouse, 0.03, 0.3, 0.9674683, 1
+target9, Mouse, 0.03, 0.3, 0.7695313, 1
+
+Person 3 (MousePad)
+
+Combination 1: Distance = 0.1m, Width = 0.01m
+target1, MousePad, 0.01, 0.1, 1.101379, 1
+target2, MousePad, 0.01, 0.1, 0.9946289, 1
+target3, MousePad, 0.01, 0.1, 0.8718872, 1
+target4, MousePad, 0.01, 0.1, 1.029968, 1
+target5, MousePad, 0.01, 0.1, 1.02301, 1
+target6, MousePad, 0.01, 0.1, 1.017365, 1
+target7, MousePad, 0.01, 0.1, 0.9194031, 1
+target8, MousePad, 0.01, 0.1, 0.8905029, 1
+target9, MousePad, 0.01, 0.1, 1.569, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, MousePad, 0.02, 0.1, 2.264099, 1
+target2, MousePad, 0.02, 0.1, 0.8898926, 0
+target3, MousePad, 0.02, 0.1, 0.9811401, 1
+target4, MousePad, 0.02, 0.1, 0.9327087, 1
+target5, MousePad, 0.02, 0.1, 0.7476501, 1
+target6, MousePad, 0.02, 0.1, 0.8426208, 1
+target7, MousePad, 0.02, 0.1, 0.8313599, 1
+target8, MousePad, 0.02, 0.1, 1.132233, 1
+target9, MousePad, 0.02, 0.1, 0.9017029, 1
+Combination 3: Distance = 0.1m, Width = 0.03m
+target1, MousePad, 0.03, 0.1, 0.8765259, 1
+target2, MousePad, 0.03, 0.1, 1.085449, 1
+target3, MousePad, 0.03, 0.1, 0.9571838, 1
+target4, MousePad, 0.03, 0.1, 1.047058, 1
+target5, MousePad, 0.03, 0.1, 1.166199, 1
+target6, MousePad, 0.03, 0.1, 0.9468994, 1
+target7, MousePad, 0.03, 0.1, 0.9139404, 1
+target8, MousePad, 0.03, 0.1, 0.9684448, 1
+target9, MousePad, 0.03, 0.1, 0.8894958, 1
+Combination 4: Distance = 0.2m, Width = 0.01m
+target1, MousePad, 0.01, 0.2, 1.202667, 1
+target2, MousePad, 0.01, 0.2, 0.8569946, 1
+target3, MousePad, 0.01, 0.2, 0.8224487, 1
+target4, MousePad, 0.01, 0.2, 0.8298035, 1
+target5, MousePad, 0.01, 0.2, 1.394928, 1
+target6, MousePad, 0.01, 0.2, 0.6580505, 1
+target7, MousePad, 0.01, 0.2, 0.9359741, 1
+target8, MousePad, 0.01, 0.2, 0.9189148, 1
+target9, MousePad, 0.01, 0.2, 1.252899, 1
+Combination 5: Distance = 0.2m, Width = 0.02m
+target1, MousePad, 0.02, 0.2, 1.108154, 1
+target2, MousePad, 0.02, 0.2, 0.8754272, 1
+target3, MousePad, 0.02, 0.2, 0.8046265, 1
+target4, MousePad, 0.02, 0.2, 1.367462, 1
+target5, MousePad, 0.02, 0.2, 1.103119, 1
+target6, MousePad, 0.02, 0.2, 0.9742737, 1
+target7, MousePad, 0.02, 0.2, 0.884552, 1
+target8, MousePad, 0.02, 0.2, 1.039581, 1
+target9, MousePad, 0.02, 0.2, 0.9636841, 0
+Combination 6: Distance = 0.2m, Width = 0.03m
+target1, MousePad, 0.03, 0.2, 1.055115, 1
+target2, MousePad, 0.03, 0.2, 0.8931885, 1
+target3, MousePad, 0.03, 0.2, 0.8555603, 1
+target4, MousePad, 0.03, 0.2, 1.127808, 1
+target5, MousePad, 0.03, 0.2, 1.067871, 1
+target6, MousePad, 0.03, 0.2, 0.9321899, 1
+target7, MousePad, 0.03, 0.2, 1.018066, 1
+target8, MousePad, 0.03, 0.2, 0.8815002, 1
+target9, MousePad, 0.03, 0.2, 0.8081665, 1
+Combination 7: Distance = 0.3m, Width = 0.01m
+target1, MousePad, 0.01, 0.3, 0.9194031, 1
+target2, MousePad, 0.01, 0.3, 0.8031616, 1
+target3, MousePad, 0.01, 0.3, 1.481293, 1
+target4, MousePad, 0.01, 0.3, 0.9533997, 1
+target5, MousePad, 0.01, 0.3, 0.9237671, 1
+target6, MousePad, 0.01, 0.3, 0.8215027, 1
+target7, MousePad, 0.01, 0.3, 0.9504089, 1
+target8, MousePad, 0.01, 0.3, 1.117981, 1
+target9, MousePad, 0.01, 0.3, 0.9508057, 1
+Combination 8: Distance = 0.3m, Width = 0.02m
+target1, MousePad, 0.02, 0.3, 1.004059, 1
+target2, MousePad, 0.02, 0.3, 0.8381958, 1
+target3, MousePad, 0.02, 0.3, 1.057098, 1
+target4, MousePad, 0.02, 0.3, 0.8568726, 1
+target5, MousePad, 0.02, 0.3, 0.8363647, 1
+target6, MousePad, 0.02, 0.3, 0.9216309, 1
+target7, MousePad, 0.02, 0.3, 1.116272, 1
+target8, MousePad, 0.02, 0.3, 0.931366, 1
+target9, MousePad, 0.02, 0.3, 0.8265381, 1
+Combination 9: Distance = 0.3m, Width = 0.03m
+target1, MousePad, 0.03, 0.3, 0.9848633, 1
+target2, MousePad, 0.03, 0.3, 0.9817505, 1
+target3, MousePad, 0.03, 0.3, 0.951416, 1
+target4, MousePad, 0.03, 0.3, 0.9200745, 1
+target5, MousePad, 0.03, 0.3, 1.220184, 1
+target6, MousePad, 0.03, 0.3, 1.011383, 1
+target7, MousePad, 0.03, 0.3, 1.067749, 0
+target8, MousePad, 0.03, 0.3, 1.096436, 1
+target9, MousePad, 0.03, 0.3, 1.136444, 1
+
+Person 3 (Mouse)
+
+Combination 1: Distance = 0.1m, Width = 0.01m
+target1, Mouse, 0.01, 0.1, 1.924164, 1
+target2, Mouse, 0.01, 0.1, 0.8505249, 1
+target3, Mouse, 0.01, 0.1, 0.7900391, 1
+target4, Mouse, 0.01, 0.1, 0.9270935, 1
+target5, Mouse, 0.01, 0.1, 0.9208679, 1
+target6, Mouse, 0.01, 0.1, 0.9927368, 1
+target7, Mouse, 0.01, 0.1, 0.9286804, 1
+target8, Mouse, 0.01, 0.1, 0.9021301, 1
+target9, Mouse, 0.01, 0.1, 0.9188232, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, Mouse, 0.02, 0.1, 0.8409424, 1
+target2, Mouse, 0.02, 0.1, 0.8759155, 1
+target3, Mouse, 0.02, 0.1, 0.9877625, 1
+target4, Mouse, 0.02, 0.1, 0.9702759, 1
+target5, Mouse, 0.02, 0.1, 0.8710938, 1
+target6, Mouse, 0.02, 0.1, 0.8398743, 1
+target7, Mouse, 0.02, 0.1, 0.7449036, 1
+target8, Mouse, 0.02, 0.1, 0.8553162, 1
+target9, Mouse, 0.02, 0.1, 0.6540527, 1
+Combination 3: Distance = 0.1m, Width = 0.03m
+target1, Mouse, 0.03, 0.1, 0.8600464, 1
+target2, Mouse, 0.03, 0.1, 0.8212585, 1
+target3, Mouse, 0.03, 0.1, 0.7938843, 1
+target4, Mouse, 0.03, 0.1, 1.00119, 1
+target5, Mouse, 0.03, 0.1, 0.8293152, 0
+target6, Mouse, 0.03, 0.1, 0.9458618, 1
+target7, Mouse, 0.03, 0.1, 0.855011, 1
+target8, Mouse, 0.03, 0.1, 0.8007813, 1
+target9, Mouse, 0.03, 0.1, 0.7568359, 1
+Combination 4: Distance = 0.2m, Width = 0.01m
+target1, Mouse, 0.01, 0.2, 0.9713745, 1
+target2, Mouse, 0.01, 0.2, 1.156586, 1
+target3, Mouse, 0.01, 0.2, 0.8125916, 1
+target4, Mouse, 0.01, 0.2, 0.7877808, 1
+target5, Mouse, 0.01, 0.2, 1.019989, 1
+target6, Mouse, 0.01, 0.2, 0.9112549, 1
+target7, Mouse, 0.01, 0.2, 0.8206787, 0
+target8, Mouse, 0.01, 0.2, 0.7381897, 1
+target9, Mouse, 0.01, 0.2, 1.022949, 1
+Combination 5: Distance = 0.2m, Width = 0.02m
+target1, Mouse, 0.02, 0.2, 1.534973, 1
+target2, Mouse, 0.02, 0.2, 0.8565979, 1
+target3, Mouse, 0.02, 0.2, 0.994873, 1
+target4, Mouse, 0.02, 0.2, 1.125275, 1
+target5, Mouse, 0.02, 0.2, 1.108887, 1
+target6, Mouse, 0.02, 0.2, 0.834198, 1
+target7, Mouse, 0.02, 0.2, 1.032196, 1
+target8, Mouse, 0.02, 0.2, 0.8720703, 1
+target9, Mouse, 0.02, 0.2, 0.8896484, 1
+Combination 6: Distance = 0.2m, Width = 0.03m
+target1, Mouse, 0.03, 0.2, 1.639771, 1
+target2, Mouse, 0.03, 0.2, 0.8475647, 1
+target3, Mouse, 0.03, 0.2, 0.7425537, 1
+target4, Mouse, 0.03, 0.2, 0.8111267, 1
+target5, Mouse, 0.03, 0.2, 0.8069458, 1
+target6, Mouse, 0.03, 0.2, 0.7746887, 0
+target7, Mouse, 0.03, 0.2, 0.9447937, 1
+target8, Mouse, 0.03, 0.2, 0.9764099, 1
+target9, Mouse, 0.03, 0.2, 0.7507935, 1
+Combination 7: Distance = 0.3m, Width = 0.01m
+target1, Mouse, 0.01, 0.3, 0.9766235, 1
+target2, Mouse, 0.01, 0.3, 0.9451599, 1
+target3, Mouse, 0.01, 0.3, 1.085327, 1
+target4, Mouse, 0.01, 0.3, 0.707428, 1
+target5, Mouse, 0.01, 0.3, 0.9285583, 1
+target6, Mouse, 0.01, 0.3, 0.9804077, 1
+target7, Mouse, 0.01, 0.3, 0.9144287, 1
+target8, Mouse, 0.01, 0.3, 0.8800049, 1
+target9, Mouse, 0.01, 0.3, 0.9595642, 1
+Combination 8: Distance = 0.3m, Width = 0.02m
+target1, Mouse, 0.02, 0.3, 1.216339, 0
+target2, Mouse, 0.02, 0.3, 0.798584, 1
+target3, Mouse, 0.02, 0.3, 0.912262, 1
+target4, Mouse, 0.02, 0.3, 0.9713135, 1
+target5, Mouse, 0.02, 0.3, 1.03949, 1
+target6, Mouse, 0.02, 0.3, 0.9724731, 1
+target7, Mouse, 0.02, 0.3, 1.04364, 1
+target8, Mouse, 0.02, 0.3, 0.9084778, 1
+target9, Mouse, 0.02, 0.3, 0.984375, 1
+Combination 9: Distance = 0.3m, Width = 0.03m
+target1, Mouse, 0.03, 0.3, 1.561615, 1
+target2, Mouse, 0.03, 0.3, 0.8219604, 1
+target3, Mouse, 0.03, 0.3, 0.8258057, 1
+target4, Mouse, 0.03, 0.3, 1.008087, 1
+target5, Mouse, 0.03, 0.3, 0.8641357, 1
+target6, Mouse, 0.03, 0.3, 0.885498, 1
+target7, Mouse, 0.03, 0.3, 0.8242493, 1
+target8, Mouse, 0.03, 0.3, 0.8241272, 1
+target9, Mouse, 0.03, 0.3, 1.888763, 1
+

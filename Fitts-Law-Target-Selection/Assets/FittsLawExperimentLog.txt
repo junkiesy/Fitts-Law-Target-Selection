@@ -1,0 +1,211 @@
+Experiment run at 2024-07-30 17:26:18
+target1, Mouse, 0.01, 0.1, 4.619432, 1
+target2, Mouse, 0.01, 0.1, 1.383429, 1
+target3, Mouse, 0.01, 0.1, 1.199497, 1
+target4, Mouse, 0.01, 0.1, 2.633474, 1
+target5, Mouse, 0.01, 0.1, 1.117395, 1
+target6, Mouse, 0.01, 0.1, 1.10052, 1
+target7, Mouse, 0.01, 0.1, 0.8499775, 1
+target8, Mouse, 0.01, 0.1, 0.8984108, 1
+target9, Mouse, 0.01, 0.1, 0.735918, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, Mouse, 0.02, 0.1, 0.8648281, 1
+target2, Mouse, 0.02, 0.1, 0.9658775, 1
+target3, Mouse, 0.02, 0.1, 0.7998753, 1
+target4, Mouse, 0.02, 0.1, 0.9013634, 1
+target5, Mouse, 0.02, 0.1, 0.957056, 1
+target6, Mouse, 0.02, 0.1, 0.9921246, 0
+target7, Mouse, 0.02, 0.1, 1.199659, 1
+target8, Mouse, 0.02, 0.1, 0.8164768, 1
+target9, Mouse, 0.02, 0.1, 0.6837101, 1
+Combination 3: Distance = 0.1m, Width = 0.03m
+target1, Mouse, 0.03, 0.1, 0.6002445, 0
+target2, Mouse, 0.03, 0.1, 0.9157162, 1
+target3, Mouse, 0.03, 0.1, 0.9196053, 1
+target4, Mouse, 0.03, 0.1, 0.8805733, 1
+target5, Mouse, 0.03, 0.1, 1.100094, 1
+target6, Mouse, 0.03, 0.1, 0.533062, 0
+target7, Mouse, 0.03, 0.1, 3.126446, 1
+target8, Mouse, 0.03, 0.1, 0.7740726, 0
+target9, Mouse, 0.03, 0.1, 0.8833141, 1
+Combination 4: Distance = 0.2m, Width = 0.01m
+target1, Mouse, 0.01, 0.2, 1.099529, 0
+target2, Mouse, 0.01, 0.2, 0.817688, 0
+target3, Mouse, 0.01, 0.2, 0.9328117, 1
+target4, Mouse, 0.01, 0.2, 0.9830246, 1
+target5, Mouse, 0.01, 0.2, 1.183392, 0
+target6, Mouse, 0.01, 0.2, 0.9826736, 1
+target7, Mouse, 0.01, 0.2, 0.5999222, 0
+target8, Mouse, 0.01, 0.2, 0.7177849, 1
+target9, Mouse, 0.01, 0.2, 0.3321533, 0
+Combination 5: Distance = 0.2m, Width = 0.02m
+target1, Mouse, 0.02, 0.2, 0.3009949, 0
+target2, Mouse, 0.02, 0.2, 0.6151047, 0
+target3, Mouse, 0.02, 0.2, 0.683815, 1
+target4, Mouse, 0.02, 0.2, 0.7332687, 0
+target5, Mouse, 0.02, 0.2, 0.8167686, 1
+target6, Mouse, 0.02, 0.2, 1.049755, 1
+target7, Mouse, 0.02, 0.2, 0.8176079, 0
+target8, Mouse, 0.02, 0.2, 0.9999809, 0
+target9, Mouse, 0.02, 0.2, 0.7822723, 1
+Combination 6: Distance = 0.2m, Width = 0.03m
+target1, Mouse, 0.03, 0.2, 0.7994766, 1
+target2, Mouse, 0.03, 0.2, 1.733952, 1
+target3, Mouse, 0.03, 0.2, 2.116043, 1
+target4, Mouse, 0.03, 0.2, 1.083408, 1
+target5, Mouse, 0.03, 0.2, 1.766388, 1
+target6, Mouse, 0.03, 0.2, 6.955601, 1
+target7, Mouse, 0.03, 0.2, 8.461708, 1
+target8, Mouse, 0.03, 0.2, 0.9160919, 1
+target9, Mouse, 0.03, 0.2, 0.6499329, 1
+Combination 7: Distance = 0.3m, Width = 0.01m
+target1, Mouse, 0.01, 0.3, 0.9326706, 1
+target2, Mouse, 0.01, 0.3, 0.9500275, 1
+target3, Mouse, 0.01, 0.3, 0.8189545, 1
+target4, Mouse, 0.01, 0.3, 0.8477936, 1
+target5, Mouse, 0.01, 0.3, 0.8674545, 1
+target6, Mouse, 0.01, 0.3, 0.8327103, 0
+target7, Mouse, 0.01, 0.3, 0.9666061, 0
+target8, Mouse, 0.01, 0.3, 1.051338, 1
+target9, Mouse, 0.01, 0.3, 1.180855, 1
+Combination 8: Distance = 0.3m, Width = 0.02m
+target1, Mouse, 0.02, 0.3, 0.9675751, 1
+target2, Mouse, 0.02, 0.3, 1.0504, 1
+target3, Mouse, 0.02, 0.3, 1.049469, 1
+target4, Mouse, 0.02, 0.3, 1.203415, 1
+target5, Mouse, 0.02, 0.3, 0.9802017, 1
+target6, Mouse, 0.02, 0.3, 1.099342, 1
+target7, Mouse, 0.02, 0.3, 1.299911, 1
+target8, Mouse, 0.02, 0.3, 1.049446, 1
+target9, Mouse, 0.02, 0.3, 0.8170395, 1
+Combination 9: Distance = 0.3m, Width = 0.03m
+target1, Mouse, 0.03, 0.3, 0.8339767, 1
+target2, Mouse, 0.03, 0.3, 0.9654999, 1
+target3, Mouse, 0.03, 0.3, 0.8664398, 1
+target4, Mouse, 0.03, 0.3, 1.033829, 1
+target5, Mouse, 0.03, 0.3, 0.7666245, 1
+target6, Mouse, 0.03, 0.3, 0.7331924, 1
+target7, Mouse, 0.03, 0.3, 0.8006973, 0
+target8, Mouse, 0.03, 0.3, 0.750061, 0
+target9, Mouse, 0.03, 0.3, 0.8153763, 1
+Combination 1: Distance = 0.1m, Width = 0.01m
+target1, Mouse, 0.01, 0.1, 0.7168045, 1
+target2, Mouse, 0.01, 0.1, 1.037003, 1
+target3, Mouse, 0.01, 0.1, 0.9460526, 0
+target4, Mouse, 0.01, 0.1, 1.349968, 0
+target5, Mouse, 0.01, 0.1, 1.367439, 1
+target6, Mouse, 0.01, 0.1, 0.9493713, 1
+target7, Mouse, 0.01, 0.1, 0.7835922, 1
+target8, Mouse, 0.01, 0.1, 1.216408, 1
+target9, Mouse, 0.01, 0.1, 0.7836533, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, Mouse, 0.02, 0.1, 0.8174057, 1
+target2, Mouse, 0.02, 0.1, 1.048828, 0
+target3, Mouse, 0.02, 0.1, 0.8833389, 0
+target4, Mouse, 0.02, 0.1, 1.000763, 1
+target5, Mouse, 0.02, 0.1, 1.11821, 0
+target6, Mouse, 0.02, 0.1, 1.047646, 1
+target7, Mouse, 0.02, 0.1, 0.8500366, 1
+target8, Mouse, 0.02, 0.1, 0.6997223, 1
+target9, Mouse, 0.02, 0.1, 0.7998047, 1
+Combination 3: Distance = 0.1m, Width = 0.03m
+target1, Mouse, 0.03, 0.1, 0.8524246, 0
+target2, Mouse, 0.03, 0.1, 0.9646988, 0
+target3, Mouse, 0.03, 0.1, 0.8514175, 1
+target4, Mouse, 0.03, 0.1, 1.064552, 1
+target5, Mouse, 0.03, 0.1, 0.900177, 0
+target6, Mouse, 0.03, 0.1, 1.034248, 1
+target7, Mouse, 0.03, 0.1, 0.8155746, 0
+target8, Mouse, 0.03, 0.1, 0.9841995, 1
+target9, Mouse, 0.03, 0.1, 1.043007, 0
+Combination 4: Distance = 0.2m, Width = 0.01m
+target1, Mouse, 0.01, 0.2, 0.6563568, 1
+target2, Mouse, 0.01, 0.2, 0.8331833, 0
+target3, Mouse, 0.01, 0.2, 0.8374863, 1
+target4, Mouse, 0.01, 0.2, 0.9290237, 1
+target5, Mouse, 0.01, 0.2, 1.033684, 1
+target6, Mouse, 0.01, 0.2, 0.7332306, 0
+target7, Mouse, 0.01, 0.2, 0.8371201, 0
+target8, Mouse, 0.01, 0.2, 0.7468719, 0
+target9, Mouse, 0.01, 0.2, 0.699707, 0
+Combination 5: Distance = 0.2m, Width = 0.02m
+target1, Mouse, 0.02, 0.2, 0.6835785, 1
+target2, Mouse, 0.02, 0.2, 0.5918884, 0
+target3, Mouse, 0.02, 0.2, 0.5237732, 0
+target4, Mouse, 0.02, 0.2, 0.7037354, 0
+target5, Mouse, 0.02, 0.2, 0.4967041, 0
+target6, Mouse, 0.02, 0.2, 0.8167267, 0
+target7, Mouse, 0.02, 0.2, 0.7168427, 0
+target8, Mouse, 0.02, 0.2, 0.7494812, 0
+target9, Mouse, 0.02, 0.2, 2.715744, 0
+Combination 6: Distance = 0.2m, Width = 0.03m
+target1, Mouse, 0.03, 0.2, 1.015259, 1
+target2, Mouse, 0.03, 0.2, 0.999054, 1
+target3, Mouse, 0.03, 0.2, 0.8658142, 1
+target4, Mouse, 0.03, 0.2, 0.8833313, 1
+target5, Mouse, 0.03, 0.2, 1.249481, 1
+target6, Mouse, 0.03, 0.2, 1.100128, 1
+target7, Mouse, 0.03, 0.2, 1.168289, 1
+target8, Mouse, 0.03, 0.2, 0.9991302, 1
+target9, Mouse, 0.03, 0.2, 0.9490051, 1
+Combination 7: Distance = 0.3m, Width = 0.01m
+target1, Mouse, 0.01, 0.3, 1.351303, 1
+target2, Mouse, 0.01, 0.3, 0.8986359, 1
+target3, Mouse, 0.01, 0.3, 1.00148, 0
+target4, Mouse, 0.01, 0.3, 1.399323, 1
+target5, Mouse, 0.01, 0.3, 0.783783, 1
+target6, Mouse, 0.01, 0.3, 1.234375, 0
+target7, Mouse, 0.01, 0.3, 0.8139038, 0
+target8, Mouse, 0.01, 0.3, 0.8345032, 0
+target9, Mouse, 0.01, 0.3, 1.016434, 1
+Combination 8: Distance = 0.3m, Width = 0.02m
+target1, Mouse, 0.02, 0.3, 0.9992065, 0
+target2, Mouse, 0.02, 0.3, 0.6850586, 1
+target3, Mouse, 0.02, 0.3, 1.083984, 1
+target4, Mouse, 0.02, 0.3, 0.8810425, 1
+target5, Mouse, 0.02, 0.3, 0.7834625, 1
+target6, Mouse, 0.02, 0.3, 0.8504639, 1
+target7, Mouse, 0.02, 0.3, 0.9323883, 1
+target8, Mouse, 0.02, 0.3, 0.8175659, 1
+target9, Mouse, 0.02, 0.3, 0.9840698, 1
+Combination 9: Distance = 0.3m, Width = 0.03m
+target1, Mouse, 0.03, 0.3, 0.7990875, 1
+target2, Mouse, 0.03, 0.3, 1.865845, 1
+target3, Mouse, 0.03, 0.3, 1.250031, 1
+target4, Mouse, 0.03, 0.3, 1.149658, 0
+Experiment run at 2024-07-30 17:27:08
+target1, Mouse, 0.01, 0.1, 0.7144361, 1
+target2, Mouse, 0.01, 0.1, 0.7543934, 1
+target3, Mouse, 0.01, 0.1, 0.8475, 1
+target4, Mouse, 0.01, 0.1, 0.8815532, 0
+target5, Mouse, 0.01, 0.1, 0.9308314, 1
+target6, Mouse, 0.01, 0.1, 1.231761, 1
+target7, Mouse, 0.01, 0.1, 0.8354368, 0
+target8, Mouse, 0.01, 0.1, 0.7650309, 1
+target9, Mouse, 0.01, 0.1, 0.983119, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, Mouse, 0.02, 0.1, 0.7496614, 1
+target2, Mouse, 0.02, 0.1, 0.9669657, 0
+target3, Mouse, 0.02, 0.1, 0.8199863, 1
+target4, Mouse, 0.02, 0.1, 0.7136545, 1
+target5, Mouse, 0.02, 0.1, 1.033563, 1
+target6, Mouse, 0.02, 0.1, 0.9168453, 0
+target7, Mouse, 0.02, 0.1, 1.051976, 1
+Experiment run at 2024-07-30 17:27:39
+target1, Mouse, 0.01, 0.1, 1.095399, 1
+target2, Mouse, 0.01, 0.1, 1.233566, 1
+target3, Mouse, 0.01, 0.1, 0.9659736, 1
+target4, Mouse, 0.01, 0.1, 0.8502824, 1
+target5, Mouse, 0.01, 0.1, 0.9850798, 1
+target6, Mouse, 0.01, 0.1, 1.316309, 0
+target7, Mouse, 0.01, 0.1, 1.566114, 1
+target8, Mouse, 0.01, 0.1, 1.18221, 1
+target9, Mouse, 0.01, 0.1, 2.807085, 1
+Combination 2: Distance = 0.1m, Width = 0.02m
+target1, Mouse, 0.02, 0.1, 1.263065, 1
+target2, Mouse, 0.02, 0.1, 1.147544, 1
+target3, Mouse, 0.02, 0.1, 0.7676649, 1
+target4, Mouse, 0.02, 0.1, 0.8166695, 1
+target5, Mouse, 0.02, 0.1, 0.6995134, 0
+target6, Mouse, 0.02, 0.1, 1.033865, 1
+target7, Mouse, 0.02, 0.1, 0.8993645, 0
